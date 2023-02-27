@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/2023/02/27/Servlet/</loc>
+    <loc>http://example.com/2023/02/27/Http-Servlet-Tomcat/</loc>
     
     <lastmod>2023-02-27</lastmod>
     
@@ -82,15 +82,6 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>http://example.com/2022/10/27/Excel-Learn/</loc>
-    
-    <lastmod>2022-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>http://example.com/</loc>
@@ -99,27 +90,6 @@
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://example.com/tags/Servlet/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/tomcat/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.com/tags/Http/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>http://example.com/tags/Spring/</loc>
@@ -143,7 +113,21 @@
   </url>
   
   <url>
-    <loc>http://example.com/tags/%E5%AF%B9%E8%B1%A1/</loc>
+    <loc>http://example.com/tags/Servlet/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/tomcat/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://example.com/tags/Http/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
