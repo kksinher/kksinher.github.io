@@ -15,4 +15,5 @@ http://example.com/tags/Spring/
 http://example.com/tags/%E7%AC%94%E8%AE%B0/
 http://example.com/tags/Ioc%E5%AE%B9%E5%99%A8/
 http://example.com/tags/vue/
+http://example.com/categories/Http-Servlet-Tomcat/
 http://example.com/categories/Spring%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
