@@ -116,9 +116,9 @@
     
     <category term="Ioc容器" scheme="https://kksinher.github.io/tags/Ioc%E5%AE%B9%E5%99%A8/"/>
     
-    <category term="Bean" scheme="https://kksinher.github.io/tags/Bean/"/>
-    
     <category term="注解" scheme="https://kksinher.github.io/tags/%E6%B3%A8%E8%A7%A3/"/>
+    
+    <category term="Bean" scheme="https://kksinher.github.io/tags/Bean/"/>
     
   </entry>
   
@@ -174,9 +174,9 @@
     
     <category term="Ioc容器" scheme="https://kksinher.github.io/tags/Ioc%E5%AE%B9%E5%99%A8/"/>
     
-    <category term="XML" scheme="https://kksinher.github.io/tags/XML/"/>
-    
     <category term="Bean" scheme="https://kksinher.github.io/tags/Bean/"/>
+    
+    <category term="XML" scheme="https://kksinher.github.io/tags/XML/"/>
     
   </entry>
   
