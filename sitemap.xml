@@ -92,27 +92,6 @@
 
   
   <url>
-    <loc>https://kksinher.github.io/tags/Servlet/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/Ioctomcat/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/Http/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kksinher.github.io/tags/Spring/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -134,6 +113,34 @@
   </url>
   
   <url>
+    <loc>https://kksinher.github.io/tags/Servlet/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Ioctomcat/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Http/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/AoP/</loc>
+    <lastmod>2023-02-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://kksinher.github.io/tags/%E6%B3%A8%E8%A7%A3/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
@@ -148,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/AoP/</loc>
+    <loc>https://kksinher.github.io/tags/XML/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -161,24 +168,17 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://kksinher.github.io/tags/XML/</loc>
-    <lastmod>2023-02-27</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
-    <loc>https://kksinher.github.io/categories/Http-Servlet-Tomcat/</loc>
+    <loc>https://kksinher.github.io/categories/Spring/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/categories/Spring/</loc>
+    <loc>https://kksinher.github.io/categories/Http-Servlet-Tomcat/</loc>
     <lastmod>2023-02-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
