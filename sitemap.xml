@@ -140,6 +140,27 @@
   </url>
   
   <url>
+    <loc>https://kksinher.github.io/tags/Mybatis/</loc>
+    <lastmod>2023-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/ORM/</loc>
+    <lastmod>2023-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Mapper/</loc>
+    <lastmod>2023-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://kksinher.github.io/tags/MySQL/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -168,21 +189,35 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/Mybatis/</loc>
+    <loc>https://kksinher.github.io/tags/Spring/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/ORM/</loc>
+    <loc>https://kksinher.github.io/tags/Ioc%E5%AE%B9%E5%99%A8/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/Mapper/</loc>
+    <loc>https://kksinher.github.io/tags/DI/</loc>
+    <lastmod>2023-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/XML/</loc>
+    <lastmod>2023-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Bean/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -217,27 +252,6 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/Spring/</loc>
-    <lastmod>2023-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/Ioc%E5%AE%B9%E5%99%A8/</loc>
-    <lastmod>2023-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/DI/</loc>
-    <lastmod>2023-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kksinher.github.io/tags/%E6%B3%A8%E8%A7%A3/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -245,14 +259,7 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/Bean/</loc>
-    <lastmod>2023-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/XML/</loc>
+    <loc>https://kksinher.github.io/tags/AoP/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -260,13 +267,6 @@
   
   <url>
     <loc>https://kksinher.github.io/tags/vue/</loc>
-    <lastmod>2023-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/AoP/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -282,13 +282,6 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/categories/MySQL-%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2023-02-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kksinher.github.io/categories/Mybatis-%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
@@ -296,7 +289,7 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/categories/Redis%E9%9D%A2%E8%AF%95/</loc>
+    <loc>https://kksinher.github.io/categories/MySQL-%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -304,6 +297,13 @@
   
   <url>
     <loc>https://kksinher.github.io/categories/Spring/</loc>
+    <lastmod>2023-02-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/categories/Redis%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2023-02-28</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
