@@ -146,27 +146,6 @@
 
   
   <url>
-    <loc>https://kksinher.github.io/tags/Servlet/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/Ioctomcat/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/Http/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kksinher.github.io/tags/Mybatis/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
@@ -182,34 +161,6 @@
   
   <url>
     <loc>https://kksinher.github.io/tags/Mapper/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/MySQL/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/%E4%B9%90%E8%A7%82%E9%94%81/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/%E6%82%B2%E8%A7%82%E9%94%81/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/B-%E6%A0%91/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -279,7 +230,63 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/DI/</loc>
+    <loc>https://kksinher.github.io/tags/XML/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Bean/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/MySQL/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/%E4%B9%90%E8%A7%82%E9%94%81/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/%E6%82%B2%E8%A7%82%E9%94%81/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/B-%E6%A0%91/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Servlet/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Ioctomcat/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/tags/Http/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -293,7 +300,7 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/Bean/</loc>
+    <loc>https://kksinher.github.io/tags/AoP/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -328,7 +335,7 @@
   </url>
   
   <url>
-    <loc>https://kksinher.github.io/tags/AoP/</loc>
+    <loc>https://kksinher.github.io/tags/DI/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -336,13 +343,6 @@
   
   <url>
     <loc>https://kksinher.github.io/tags/vue/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/tags/XML/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -372,21 +372,7 @@
 
   
   <url>
-    <loc>https://kksinher.github.io/categories/Http-Servlet-Tomcat/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://kksinher.github.io/categories/Mybatis-%E9%9D%A2%E8%AF%95/</loc>
-    <lastmod>2023-03-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://kksinher.github.io/categories/MySQL-%E9%9D%A2%E8%AF%95/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -408,6 +394,20 @@
   
   <url>
     <loc>https://kksinher.github.io/categories/Spring/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/categories/MySQL-%E9%9D%A2%E8%AF%95/</loc>
+    <lastmod>2023-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://kksinher.github.io/categories/Http-Servlet-Tomcat/</loc>
     <lastmod>2023-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
